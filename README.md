@@ -2,10 +2,12 @@
 # Project Name
 Long Description about project. This project do that. This project is awesome...
 ## Team members
-1. Name [Embed personal github URL]
-2. Name [Embed perosnal github URL]
+1. Nazal Nihad [https://github.com/nazalnihad]
+2. Nandhu Krishna [https://github.com/nandhu-44]
+3. Ganesh Kumar [https://github.com/ganeshkumarka]
+4. Jeslin P James [https://github.com/jeslinpjames]
 ## Team Id
-Team id here
+TechUp
 ## Link to product walkthrough
 [link to video]
 ## How it Works ?
